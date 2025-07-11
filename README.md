@@ -1,1 +1,1 @@
-# course
+prueba de como crear un repositorio y clonar desde git hub a mi computadora.
